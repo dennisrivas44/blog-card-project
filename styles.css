@@ -15,11 +15,11 @@ body{
     height: fit-content;
     padding: 1.25rem;
     background-color: var(--White);
-    margin: 10rem auto;
-    border: 1.5px black solid;
+    margin: 20rem auto;
+    border: 0.1rem black solid;
     border-radius: 1rem;
     box-shadow: .5rem .5rem;;
-    font-family: 'Figtree';
+    font-family: 'Figtree', sans-serif;
     line-height: 150%;
     letter-spacing: 0%;
 }
@@ -32,8 +32,7 @@ body{
     font-weight: 800;
 }
 #date{
-    font-size: 14px;
-    margin-top: 0.75;
+    font-size: 0.875rem;
     font-weight: 400;
 }
 #coverimg{
@@ -42,7 +41,7 @@ body{
     padding-bottom: 0.25rem;
 }
 h1{
-    font-size: 24px;
+    font-size: 1.5em;
     margin: 0.75rem 0;
    
 }
@@ -51,7 +50,7 @@ h1:hover{
     color: var(--Yellow)
 }
 h2{
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: 500;
     color: var(--Gray-500);
     padding: 0.25rem 0;
@@ -64,7 +63,7 @@ p{
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 10px 0;
+    padding: 0.625rem 0;
     font-weight: 800;
 }
 #pfp{
@@ -72,8 +71,7 @@ p{
     padding-right: 0.75rem;
 }
 .attribution { 
-    font-size: 11px; 
+    font-size: 0.75rem; 
     text-align: center; 
-    bottom: 1px;
 }
 .attribution a { color: hsl(228, 45%, 44%); }
