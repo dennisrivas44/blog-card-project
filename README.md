@@ -35,7 +35,7 @@ Users should be able to:
 
 - Live Site URL: [Github Pages URL](https://your-live-site-url.com)
 - 
-- Solution Site URL: [Solution URL](https://www.frontendmentor.io/solutions/blog-card-using-html-and-css-C_78Deb7q2)
+- Solution Site URL: [Solution URL](https://dennisrivas44.github.io/blog-card-project/)
 
 
 ## My process
